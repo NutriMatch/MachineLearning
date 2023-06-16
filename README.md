@@ -10,7 +10,7 @@ Datasets were collected with the browser extension ImageAssistant Batch Image Do
 
 ## Training 
 ### Datasets used 
-specify input shape of (416,416) 
+Using dataset that have been collected as mentioned above, with dimension uniformed as (416, 416).
 
 ### Preprocess 
 Using ImageDataGenerator to do augmentation. 
